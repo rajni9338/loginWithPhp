@@ -1,0 +1,38 @@
+header{
+    background-color: teal;
+    height: 80px;
+    width: 100vw;
+}
+
+button{
+    margin: 30px 20px 0 0px;
+    text-align:center;
+    float: right;
+    height: 30px;
+    background-color: white;
+    color: teal;
+    border: 2px solid white;
+    
+}
+
+button:hover{
+    background-color: teal;
+    color: white;    
+}
+ol{
+    list-style-type: none
+}
+
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: teal;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+}

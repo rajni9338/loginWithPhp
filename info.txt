@@ -1,0 +1,5 @@
+Jane Doe|0001|Jane@1|jane.doe@gmail.com|admin|active|ABC
+Guest ABC|0002|John@1|john.doe@gmail.com|guest|active|ABC
+Marry Wood|0003|Wood@1|wood.marry@gmail.com|admin|inactive
+Anna Smith|0004|Smith@1|smith.anna@gmail.com|guest|inactive
+William Doe|0005|Doe@1|william.doe@gmail.com|admin|active
